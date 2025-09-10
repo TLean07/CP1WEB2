@@ -97,26 +97,27 @@ Para rodar o projeto localmente, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/TLean07/CP1WEB2.git](https://github.com/TLean07/CP1WEB2.git)
+    https://github.com/TLean07/CP1WEB2.git
+    ```
+
+2.  **Acesse o diretório do projeto:**
+    ```bash
     cd bat-hqs
     ```
 
-2.  **Instale as dependências:**
+3.  **Instale as dependências:**
     ```bash
     npm install
     ```
 
-3.  **Inicie o servidor de desenvolvimento:**
+4.  **Inicie o servidor de desenvolvimento:**
     ```bash
     npm run dev
     ```
-
 ---
 
-### 👥 Autores do Projeto
+### 👤 Autor do Projeto
 
 | Nome | RM | GitHub |
 | :--- | :--- | :--- |
-| Leandro Afonso Silva Santos Júnior | 561344 | [TLean07](https://github.com/TLean07) |
-| Guilherme Barone Milani | 562114 | [GuilhermeBM3012](https://github.com/GuilhermeBM3012) |
-| Luigi Escudero Grigoletto | 562505 | [Lueg2007](https://github.com/Lueg2007) |
+| Seu Nome Completo | Seu RM | [SeuUsuárioGitHub](https://github.com/SeuUsuarioGitHub) |
