@@ -97,7 +97,7 @@ Para rodar o projeto localmente, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/TLean07/CP1WEB2.git](https://github.com/TLean07/CP1WEB2.git)
+    git clone https://github.com/TLean07/CP1WEB2.git
     cd BatComics
     ```
 
