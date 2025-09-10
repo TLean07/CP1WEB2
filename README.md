@@ -1,4 +1,4 @@
-<h1 align="center">BataComics: Catálogo Interativo</h1>
+<h1 align="center">BatComics: Catálogo Interativo</h1>
 <p align="center">Checkpoint 1 – WebDev com React</p>
 
 <p align="center">
