@@ -116,8 +116,11 @@ Para rodar o projeto localmente, siga os passos abaixo.
     ```
 ---
 
-### 👤 Autor do Projeto
+### 👥 Autores do Projeto
 
 | Nome | RM | GitHub |
 | :--- | :--- | :--- |
-| Seu Nome Completo | Seu RM | [SeuUsuárioGitHub](https://github.com/SeuUsuarioGitHub) |
+| Leandro Afonso Silva Santos Júnior | 561344 | [TLean07](https://github.com/TLean07) |
+| Guilherme Barone Milani | 562114 | [GuilhermeBM3012](https://github.com/GuilhermeBM3012) |
+| Luigi Escudero Grigoletto | 562505 | [Lueg2007](https://github.com/Lueg2007) |
+
