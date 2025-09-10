@@ -95,25 +95,17 @@ BatComics/
 
 Para rodar o projeto localmente, siga os passos abaixo.
 
-1.  **Clone o repositório:**
-    ```
-    https://github.com/TLean07/CP1WEB2.git
-    ```
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/TLean07/CP1WEB2.git](https://github.com/TLean07/CP1WEB2.git)
+    cd BatComics
+    ```
 
-2.  **Acesse o diretório do projeto:**
-    ```
-    cd bat-hqs
-    ```
+2.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
 
-3.  **Instale as dependências:**
-    ```bash
-    npm install
-    ```
-
-4.  **Inicie o servidor de desenvolvimento:**
-    ```
-    npm run dev
-    ```
 ---
 
 ### 👥 Autores do Projeto
